@@ -145,6 +145,10 @@
         margin-bottom: 20px;
     }
 
+    .radial-bar .text{
+        left: 15%;
+    }
+
     #project {
         height: auto;
     }
