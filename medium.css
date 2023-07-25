@@ -61,13 +61,14 @@
 
     .about {
         margin-top: 20px;
+        margin-bottom: 80px;
         height: auto;
         gap: 0.8rem;
         /* grid-template-columns: 30% 60%; */
     }
 
     .about-img img {
-        margin-left: 12%;
+        margin-left: 18%;
         width: 230px;
         height: 230px;
     }
@@ -86,6 +87,8 @@
         font-size: 16px;
         line-height: 1.2;
         margin-bottom: 2rem;
+        margin-right: 25px;
+        text-align: justify;
     }
 
     #services {
@@ -151,6 +154,7 @@
 
     #project {
         height: auto;
+        margin-top: 4rem;
     }
 
     .main-text h2 {
@@ -180,6 +184,9 @@
 
     .externalLink img {
         width: 20px
+    }
+    .contact{
+        margin-top: 8rem;
     }
 
     .contact-text h2 {
