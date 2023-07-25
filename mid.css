@@ -80,6 +80,10 @@
         line-height: 1.2;
     }
 
+    .services-list div p{
+        font-size: 16px;
+    }
+
     .sub-title{
         font-size: 35px;
         letter-spacing: 2px;
